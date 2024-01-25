@@ -1,0 +1,13 @@
+Project_1 pseudocode:
+
+1. Prompt for the radius of the circle (input will be a float)
+
+2. Call function to calculate circumference
+3. Call function to calculate the area
+4. Call function to calculate the volume
+5. Call function to output the equations used
+
+Notes:
+Will use floats throughout the program rounding to five significant digits after the decimal.
+Will only use one class meaning functions will have to be defined before I can call them in the project. All calls will be at the bottom of the file
+
